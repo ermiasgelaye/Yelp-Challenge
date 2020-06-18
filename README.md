@@ -4,7 +4,7 @@
 
 ## Background
 
-This project is an exploration of the Yelp resturants dataset in the top four largest cities in North America (New-York, Los Angeles, Chicago, and Toronto).
+This project is an exploration of the Yelp restaurants dataset in the top four largest cities in North America (New-York, Los Angeles, Chicago, and Toronto).
 Yelp is a user-driven small business directory which allows users from anywhere in the world to rate, review, as well as the online reservation service. 
 
 Project Main Question:

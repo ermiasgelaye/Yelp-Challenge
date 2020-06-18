@@ -15,9 +15,7 @@ Detail Project Question:
 
 * Which restaurants or categories are getting top reviews?  Business with most numbers of positive reviews, review with more than 3 stars
 * Which restaurants or categories are getting bad reviews?  Business with most numbers of negative reviews, Review with just 1 star
-* What are most common words in good reviews ?
-* What are most common words in bad reviews ?
-* What Average Stars resturants getting per cities ?
-* Correlation between review length and star rating ?
+* What average rating resturants getting per cities ?
+* Correlation between review count and star rating ?
 * Linear regression between review length and star rating ?
 * Comparing cities on the star ratings.

@@ -17,5 +17,5 @@ Detail Project Question:
 * Which restaurants or categories are getting bad reviews?  Business with most numbers of negative reviews, Review with just 1 star
 * What average rating resturants getting per cities ?
 * Correlation between review count and star rating ?
-* Linear regression between review length and star rating ?
+* Linear regression between review count and star rating ?
 * Comparing cities on the star ratings.

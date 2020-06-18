@@ -13,7 +13,7 @@ What are the most yelp restaurants rating, and reviews turnout among the top fou
 
 Detail Project Question:
 
-* Which restaurants are getting top rating and reviews? Business with most numbers of reviews, and rating with more than 3 rating
+* Which restaurants are getting top rating and reviews ? Business with most numbers of reviews, and rating with more than 3 rating
 * Which restaurants are getting bad ratings and reviews? Business with lower number of reviwes, and rating less than 2 
 * What average rating restaurants getting per cities ?
 * Correlation between review count and star rating ?

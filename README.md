@@ -1,6 +1,6 @@
 # Yelp-Challenge 
 
-# PyResturants
+# PyRestaurants
 
 ## Background
 

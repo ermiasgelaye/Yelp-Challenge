@@ -1,7 +1,7 @@
 # Yelp-Challenge 
 
 # PyRestaurants
-
+![Yelp](Images/yelp.gif)
 ## Background
 
 This project is an exploration of the Yelp restaurants dataset in the top four largest cities in North America (New-York, Los Angeles, Chicago, and Toronto).

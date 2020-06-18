@@ -1,7 +1,7 @@
 # Yelp-Challenge 
 
 # PyRestaurants
-
+![Yelp](Images/yelp.gif)
 ## Background
 
 This project is an exploration of the Yelp restaurants dataset in the top four largest cities in North America (New-York, Los Angeles, Chicago, and Toronto).
@@ -13,9 +13,9 @@ What are the most yelp restaurants rating, and reviews turnout among the top fou
 
 Detail Project Question:
 
-* Which restaurants or categories are getting top reviews?  Business with most numbers of positive reviews, review with more than 3 stars
-* Which restaurants or categories are getting bad reviews?  Business with most numbers of negative reviews, Review with just 1 star
-* What average rating resturants getting per cities ?
+* Which restaurants are getting top rating and reviews ? Business with most numbers of reviews, and rating with more than 3 rating
+* Which restaurants are getting bad ratings and reviews? Business with lower number of reviwes, and rating less than 2 
+* What average rating restaurants getting per cities ?
 * Correlation between review count and star rating ?
-* Linear regression between review length and star rating ?
+* Linear regression between review count and star rating ?
 * Comparing cities on the star ratings.

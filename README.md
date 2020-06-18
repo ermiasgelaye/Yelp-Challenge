@@ -15,7 +15,7 @@ Detail Project Question:
 
 * Which restaurants are getting top rating and reviews? Business with most numbers of reviews, and rating with more than 3 rating
 * Which restaurants are getting bad ratings and reviews? Business with lower number of reviwes, and rating less than 2 
-* What average rating resturants getting per cities ?
+* What average rating restaurants getting per cities ?
 * Correlation between review count and star rating ?
 * Linear regression between review count and star rating ?
 * Comparing cities on the star ratings.

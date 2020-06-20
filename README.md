@@ -9,7 +9,7 @@ Yelp is a user-driven small business directory which allows users from anywhere 
 
 Project Main Question:
 
-What are the most yelp restaurants and categories ratings, reviews, and pricing turnout among the top four largest cities, and thir suburb areas in North America (New-York, Los Angeles, Chicago, and Toronto) ?
+What are the most yelp restaurants and categories ratings, reviews, and pricing turnout among the top four largest cities, and their suburb areas in North America (New-York, Los Angeles, Chicago, and Toronto) ?
 
 Detail Project Question:
 

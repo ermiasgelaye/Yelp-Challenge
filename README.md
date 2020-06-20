@@ -31,10 +31,10 @@ Detail Project Question:
 
 
 Team members:
- Amanda Qianyue Ma
- Amos Johnson  
-‘Damola
- Ermias Gaga 
+ - Amanda Qianyue Ma
+ - Amos Johnson  
+ - ‘Damola
+ - Ermias Gaga 
 
 
 

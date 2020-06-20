@@ -9,12 +9,14 @@ Yelp is a user-driven small business directory which allows users from anywhere 
 
 Project Main Question:
 
-What are the most yelp restaurants and categories rating, reviews, and pricing turnout among the top four largest citiesa, and thir suburb areas in North America (New-York, Los Angeles, Chicago, and Toronto) ?
+What are the most yelp restaurants and categories ratings, reviews, and pricing turnout among the top four largest cities, and thir suburb areas in North America (New-York, Los Angeles, Chicago, and Toronto) ?
 
 Detail Project Question:
 
 * Which restaurants are getting top rating and reviews ? Business with most numbers of reviews, and rating with more than 3 rating
 * Which restaurants are getting bad ratings and reviews? Business with lower number of reviwes, and rating less than 2 
+* Which categories are getting top rating and reviews ? Business with most numbers of reviews, and rating with more than 3 rating
+* Which categories are getting bad ratings and reviews? Business with lower number of reviwes, and rating less than 2 
 * What average rating restaurants getting per cities ?
 * Percentage of restaurants falls uder the four price ranges 
    - $= under $10

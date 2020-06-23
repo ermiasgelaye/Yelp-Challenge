@@ -27,7 +27,7 @@ Yelp is a user-driven small business directory which allows users from anywhere 
 ## Dataset 
 This project will going to use YELP restaurant dataset among the top four largest cities in North America (New-York, Los Angeles, Chicago, and Toronto), and thir surrounding areas. The data is genereted by using Yelp API calls and transformed to csv file so that we can apply Python Pandas to analyze the dataset.
             
-     - 4270 data points(restaurant)
+     - 4270 data points(restaurants)
      - 22 cities, three state in US(New York, Illinois, California) one province from Canada (Ontario)
 
 ## Team members:

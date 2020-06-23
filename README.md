@@ -6,30 +6,31 @@
 
 Yelp is a user-driven small business directory which allows users from anywhere in the world to rate, review, as well as the online reservation service. Due to the vast number of restaurants spread worldwide, it is very difficult to get to know the quality of a restaurant and the services they provide. Yelp provides us with reviews and ratings provided by the users and other services offered by the restaurants. In-order-to invest in a business or start a new one, one should have an idea of the reasons behind the success of the restaurant. The original yelp data set has the general details of restaurants but there is no analytics to infer customer satisfaction and the reasons behind the success of a restaurant. If the factors contributing to the success of a restaurant are known, it would be easy for future investors to make wise financial decisions easily. 
 
+ 
+ This project will try to answer the following main questions:
 
-This project will provide a solution of some analytics that gives an idea of what yelp ratings, reviews, and pricing are related to the success of restaurants. 
+* What yelp ratings, reviews, and pricing metrics are related to the success of restaurants ?
+* What are the top-rated restaurants?
+* What are the lowest-rated restaurants?
+* How many bad reviews outweigh the good ones when comparing both top rated and low rated?
 
+## Tasks breakdown:
+* Get and store the data by using Yelp API 
+* Clean the irrelevant data present in all the files and store them in a new and cleaned dataframe.
+* Identify the relevant details that can be analyzed with the help of data that is already given in the dataset.
+* Create a statistical summery of the dataset
+* Identify the overall quality of the business by considering the average star rating.
+* Perform the data analysis and compare the factors responsible for success with the average star rating and number of reviws of that business.
+* Conducting coorelation and regression testing on review count vs star rating. 
+* Heat Map of Restaurant in a map - based on the average reviews and rating. 
 
-Detail Project Question:
+## Dataset 
+This project will going to use YELP restaurant dataset among the top four largest cities in North America (New-York, Los Angeles, Chicago, and Toronto), and thir surrounding areas. The data is genereted by using Yelp API calls and transformed to csv file so that we can apply Python Pandas to analyze the dataset.
+            
+     - 4270 data points(restaurant)
+     - 22 cities, three state in US(New York, Illinois, California) one province from Canada (Ontario)
 
-* Which restaurants are getting top rating and reviews ? Business with most numbers of reviews, and rating with more than 3 rating
-* Which restaurants are getting bad ratings and reviews? Business with lower number of reviwes, and rating less than 2 
-* Which categories are getting top rating and reviews ? Business with most numbers of reviews, and rating with more than 3 rating
-* Which categories are getting bad ratings and reviews? Business with lower number of reviwes, and rating less than 2 
-* What average rating restaurants getting per cities ?
-* Percentage of restaurants falls uder the four price ranges 
-   - $= under $10
-   - $$= $11-$30
-   - $$$= $31-$60
-   - $$$$= above $61
-* Seeing review count and rating on price ranges 
-* Correlation between pricing and star rating ?
-* Correlation between review count and star rating ?
-* Linear regression between review count and star rating ?
-* Comparing cities on the star ratings.
-
-
-Team members:
+## Team members:
  - Amanda Qianyue Ma
  - Amos Johnson  
  - ‘Damola

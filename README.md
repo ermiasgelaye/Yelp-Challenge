@@ -14,7 +14,7 @@ Yelp is a user-driven small business directory which allows users from anywhere 
 * What are the lowest-rated restaurants?
 * How many bad reviews outweigh the good ones when comparing both top rated and low rated?
 
-## Tasks breakdown:
+## Tasks:
 * Get and store the data by using Yelp API 
 * Clean the irrelevant data present in all the files and store them in a new and cleaned dataframe.
 * Identify the relevant details that can be analyzed with the help of data that is already given in the dataset.

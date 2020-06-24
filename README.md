@@ -19,6 +19,7 @@ etc.
 * Does pricing relate to the restaurant rating? (eg. the higher the price range, the more likely it will have a higher rating)
 * What are the top-rated and lowest-rated restaurants?
 * What is the correlation between rating and review count?
+* Which city contains the most highest-rated restaurants?
 
 ## Tasks:
 * Data sources: Get and store the data by using Yelp API, Google Geolocation API

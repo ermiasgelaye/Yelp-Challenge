@@ -20,8 +20,8 @@ What is the relationship between the rating and the number of reviews of a resta
 ## Tasks:
 * Data sources: Get and store the data by using Yelp API, Google Geolocation API
   * scope of analysis: 
-  - locations: cities and the surrounding suburban areas
-  - years
+   - locations: cities and the surrounding suburban areas
+   - years
 * Data cleaning: Clean the irrelevant data present in all the files and store them in a new and cleaned dataframe.
 * Statistical analysis: Identify the relevant details that can be analyzed with the help of data that is already given in the dataset.
   * Create a statistical summery of the dataset

@@ -31,9 +31,9 @@ This project will going to use YELP restaurant dataset among the top four larges
      - 22 cities, three state in US (New York, Illinois, California) one province in Canada (Ontario)
 
 ## Team members:
+ - Adedamola Atekoja (‘Damola)
  - Amanda Qianyue Ma
  - Amos Johnson  
- - ‘Damola
  - Ermias Gaga 
 
 

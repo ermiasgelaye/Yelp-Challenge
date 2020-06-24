@@ -38,7 +38,7 @@ What is the relationship between the rating and the number of reviews of a resta
  	- cleanup process & data exploration
  	- data analysis process
  	- statistics summary (graphs & charts)
-	 - insights and conclusions drawn
+	 - insights and conclusions drawn from the data analysis
 
 ## Dataset 
 This project will going to use YELP restaurant dataset among the top four largest cities in North America (New-York, Los Angeles, Chicago, and Toronto), and thir surrounding areas. The data is genereted by using Yelp API calls and transformed to csv file so that we can apply Python Pandas to analyze the dataset.

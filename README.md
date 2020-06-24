@@ -17,8 +17,7 @@ etc.
 ## Main objectives or questions to answer: (to-be-finalized ...)
  This project will try to answer the following main questions:
 * Does pricing relate to the restaurant rating? (eg. the higher the price range, the more likely it will have a higher rating)
-* What are the top-rated restaurants?
-* What are the lowest-rated restaurants?
+* What are the top-rated and lowest-rated restaurants?
 * What is the correlation between rating and review count?
 
 ## Tasks:

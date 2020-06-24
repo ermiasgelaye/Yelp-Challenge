@@ -28,3 +28,4 @@ Detail Project Question:
 * Correlation between review count and star rating ?
 * Linear regression between review count and star rating ?
 * Comparing cities on the star ratings.
+z

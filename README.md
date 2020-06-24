@@ -17,6 +17,7 @@ What is the relationship between the rating and the number of reviews of a resta
 * Which city contains the most highest-rated restaurants?
 
 ## Tasks:
+* Identify the main questions to answer.
 * Data sources: Get and store the data by using Yelp API, Google Geolocation API
   * scope of analysis: 
    	- locations (?): cities and the surrounding suburban areas

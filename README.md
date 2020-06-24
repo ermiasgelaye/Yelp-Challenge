@@ -20,7 +20,7 @@ etc.
 * What yelp ratings, reviews, and pricing metrics are related to the success of restaurants ?
 * What are the top-rated restaurants?
 * What are the lowest-rated restaurants?
-* How many bad reviews outweigh the good ones when comparing both top rated and low rated?
+* What is the correlation between rating and review count?
 
 ## Tasks:
 * Data sources: Get and store the data by using Yelp API, Google Geolocation API

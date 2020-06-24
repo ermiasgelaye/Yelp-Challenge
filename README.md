@@ -6,13 +6,8 @@
 
 Yelp is a user-driven small business directory which allows users from anywhere in the world to rate, review, as well as the online reservation service. Due to the vast number of restaurants spread worldwide, it is very difficult to get to know the quality of a restaurant and the services they provide. Yelp provides us with reviews and ratings provided by the users and other services offered by the restaurants. In-order-to invest in a business or start a new one, one should have an idea of the reasons behind the success of the restaurant. The original yelp data set has the general details of restaurants but there is no analytics to infer customer satisfaction and the reasons behind the success of a restaurant. If the factors contributing to the success of a restaurant are known, it would be easy for future investors to make wise financial decisions easily. 
 
-# Key question: 
+# Key question: ?
 What is the relationship between the rating and the number of reviews of a restaurant on Yelp?
-Factors considered:
-pricing levels
-cuisine styles
-cities
-etc.
 
 ## Main objectives or questions to answer: (to-be-finalized ...)
  This project will try to answer the following main questions:
@@ -24,24 +19,23 @@ etc.
 ## Tasks:
 * Data sources: Get and store the data by using Yelp API, Google Geolocation API
   * scope of analysis: 
-   - locations: cities and the surrounding suburban areas
-   - years
+   	- locations (?): cities and the surrounding suburban areas
 * Data cleaning: Clean the irrelevant data present in all the files and store them in a new and cleaned dataframe.
 * Statistical analysis: Identify the relevant details that can be analyzed with the help of data that is already given in the dataset.
   * Identify the overall quality of the business by considering the average star rating.
   * Perform the data analysis and compare the average star rating and number of reviews of that business which identified as a sucessful restaurant.
   * Conducting coorelation and regression testing on review count vs star rating. 
-  * Heat Map of Restaurant in a map - based on the average reviews and rating. 
+  * Heat Map of Restaurant in a map - based on the average reviews and rating.
   * Create a statistical summary of the dataset
-* Make ppt slides: contents included
+* Make ppt slides: contents to be included:
 	 - title
 	 - background (introduction)
- 	- main questions/objectives
+ 	 - main questions/objectives
 	 - scope of analysis: locations, years
- 	- data sources
- 	- cleanup process & data exploration
- 	- data analysis process
- 	- statistics summary (graphs & charts)
+ 	 - data sources
+ 	 - cleanup process & data exploration
+ 	 - data analysis process
+ 	 - statistics summary (graphs & charts)
 	 - insights and conclusions drawn from the data analysis
 
 ## Dataset 

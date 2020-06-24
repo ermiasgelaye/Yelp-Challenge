@@ -5,6 +5,7 @@
 ![Yelp](Images/yelp.gif)
 
 ## Background
+Yelp is a user-driven small business directory which allows users from anywhere in the world to rate, review, as well as the online reservation service. Due to the vast number of restaurants spread worldwide, it is very difficult to get to know the quality of a restaurant and the services they provide. Yelp provides us with reviews and ratings provided by the users and other services offered by the restaurants. In-order-to invest in a business or start a new one, one should have an idea of the reasons behind the success of the restaurant. The original yelp data set has the general details of restaurants but there is no analytics to infer customer satisfaction and the reasons behind the success of a restaurant. If the factors contributing to the success of a restaurant are known, it would be easy for future investors to make wise financial decisions easily. On this project we focus on investigating the relationship between rating, and review counts of customers to expain the restaurants yelp status.
 
 This respository performed analysis on Yelp's dataset, and share observable trends and insights. The dataset used a subset of Yelp's restaurants businesses, their rating, review count, and other informations. In the dataset you'll find information about restaurants across 4 main cities (New-York, Los Angeles, Chicago, and Toronto), and 192 cities in metropolitan areas in United States and Canada. A Google Map Api is also used to heat map all resturants in the dataset, and mark the top rated, and reviewed restaurants.
 
@@ -163,4 +164,3 @@ In the next research  if we take appropriate sample and remove the outliers we c
  - Amanda Qianyue Ma
  - Amos Johnson  
  - Ermias Gaga 
-

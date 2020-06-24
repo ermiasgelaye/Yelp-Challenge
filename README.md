@@ -3,29 +3,46 @@
 # PyRestaurants
 ![Yelp](Images/yelp.gif)
 ## Background
+Yelp is a user-driven small business directory which allows users from anywhere in the world to rate, review, as well as the online reservation service. Due to the vast number of restaurants spread worldwide, it is very difficult to get to know the quality of a restaurant and the services they provide. Yelp provides us with reviews and ratings provided by the users and other services offered by the restaurants. In-order-to invest in a business or start a new one, one should have an idea of the reasons behind the success of the restaurant. The original yelp data set has the general details of restaurants but there is no analytics to infer customer satisfaction and the reasons behind the success of a restaurant. If the factors contributing to the success of a restaurant are known, it would be easy for future investors to make wise financial decisions easily. On this project we focus on investigating the relationship between rating, and review counts of customers to expain the restaurants yelp status.
 
-This project is an exploration of the Yelp restaurants dataset in the top four largest cities in North America (New-York, Los Angeles, Chicago, and Toronto).
-Yelp is a user-driven small business directory which allows users from anywhere in the world to rate, review, as well as the online reservation service. 
+## Main objectives or questions to answer:
+ This project will try to answer the following main questions: 
+*  Is there a relationship or correlation between rating and having a high number of reviews ?
+*  Does pricing related to the restaurant rating? (eg. the higher the price range, the more likely it will have a higher rating)
+*  What are the top-rated and lowest-rated restaurants?
+*  Which city contains the most highest-rated restaurants?
 
-Project Main Question:
+## Tasks:
+* Identify the main questions to answer.
+* Data sources: Get and store the data by using Yelp API, Google Geolocation API
+  * scope of analysis: 
+   	- Locations: The top four largest cities in North America (New-York, Los Angeles, Chicago, and Toronto), and thir surrounding areas.
+* Data cleaning: Clean the irrelevant data present in all the files and store them in a new and cleaned dataframe.
+* Statistical analysis: Identify the relevant details that can be analyzed with the help of data that is already given in the dataset.
+  * Identify the overall quality of the business by considering the average star rating.
+  * Create a statistical summary of the dataset
+  * Perform the data analysis and compare the average star rating and number of reviews of that business which identified as a sucessful restaurant.
+  * Conducting coorelation and regression testing on review count vs star rating. 
+  * Heat Map of Restaurant in a map - based on the average reviews and rating.
+* Make ppt slides: contents to be included:
+	 - title
+	 - background (introduction)
+ 	 - main questions/objectives
+	 - scope of analysis: locations
+ 	 - data sources
+ 	 - cleanup process & data exploration
+ 	 - data analysis process
+ 	 - statistics summary (graphs & charts)
+	 - insights and conclusions drawn from the data analysis
 
-What are the most yelp restaurants rating,reviews and pricing turnout among the top four largest cities in North America (New-York, Los Angeles, Chicago, and Toronto) ?
+## Dataset 
+This project will going to use YELP restaurant dataset among the top four largest cities in North America (New-York, Los Angeles, Chicago, and Toronto), and thir surrounding areas. The data is genereted by using Yelp API calls and transformed to csv file so that we can apply Python Pandas to analyze the dataset.
+            
+     - 4270 data points(restaurants)
+     - 22 cities, three state in US (New York, Illinois, California) one province in Canada (Ontario)
 
-xxxx
-
-Detail Project Question:
-
-* Which restaurants are getting top rating and reviews ? Business with most numbers of reviews, and rating with more than 3 rating
-* Which restaurants are getting bad ratings and reviews? Business with lower number of reviwes, and rating less than 2 
-* What average rating restaurants getting per cities ?
-* Percentage of restaurants falls uder the four price ranges 
-   - $= under $10
-   - $$= $11-$30
-   - $$$= $31-$60
-   - $$$$= above $61
-* Seeing review count and rating on price ranges 
-* Correlation between pricing and star rating ?
-* Correlation between review count and star rating ?
-* Linear regression between review count and star rating ?
-* Comparing cities on the star ratings.
-z
+## Team members:
+ - Adedamola Atekoja (‘Damola)
+ - Amanda Qianyue Ma
+ - Amos Johnson  
+ - Ermias Gaga 

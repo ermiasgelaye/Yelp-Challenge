@@ -3,7 +3,6 @@
 # PyRestaurants
 ![Yelp](Images/yelp.gif)
 ## Background
-
 Yelp is a user-driven small business directory which allows users from anywhere in the world to rate, review, as well as the online reservation service. Due to the vast number of restaurants spread worldwide, it is very difficult to get to know the quality of a restaurant and the services they provide. Yelp provides us with reviews and ratings provided by the users and other services offered by the restaurants. In-order-to invest in a business or start a new one, one should have an idea of the reasons behind the success of the restaurant. The original yelp data set has the general details of restaurants but there is no analytics to infer customer satisfaction and the reasons behind the success of a restaurant. If the factors contributing to the success of a restaurant are known, it would be easy for future investors to make wise financial decisions easily. 
 
  

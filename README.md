@@ -24,11 +24,11 @@ What is the relationship between the rating and the number of reviews of a resta
    - years
 * Data cleaning: Clean the irrelevant data present in all the files and store them in a new and cleaned dataframe.
 * Statistical analysis: Identify the relevant details that can be analyzed with the help of data that is already given in the dataset.
-  * Create a statistical summery of the dataset
   * Identify the overall quality of the business by considering the average star rating.
-  * Perform the data analysis and compare the average star rating and number of reviws of that business wich identified as a sucessful restaurant.
+  * Perform the data analysis and compare the average star rating and number of reviews of that business which identified as a sucessful restaurant.
   * Conducting coorelation and regression testing on review count vs star rating. 
   * Heat Map of Restaurant in a map - based on the average reviews and rating. 
+  * Create a statistical summary of the dataset
 * Make ppt slides: contents included
 
 ## Dataset 

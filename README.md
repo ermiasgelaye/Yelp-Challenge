@@ -37,6 +37,7 @@ What is the relationship between the rating and the number of reviews of a resta
  	 - cleanup process & data exploration
  	 - data analysis process
  	 - statistics summary (graphs & charts)
+	 - Limitations of analysis
 	 - insights and conclusions drawn from the data analysis
 
 ## Dataset 

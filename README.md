@@ -20,7 +20,7 @@ Yelp is a user-driven small business directory which allows users from anywhere 
 * Identify the relevant details that can be analyzed with the help of data that is already given in the dataset.
 * Create a statistical summery of the dataset
 * Identify the overall quality of the business by considering the average star rating.
-* Perform the data analysis and compare the factors responsible for success with the average star rating and number of reviws of that business.
+* Perform the data analysis and compare the average star rating and number of reviws of that business wich identified as a sucessful restaurant.
 * Conducting coorelation and regression testing on review count vs star rating. 
 * Heat Map of Restaurant in a map - based on the average reviews and rating. 
 

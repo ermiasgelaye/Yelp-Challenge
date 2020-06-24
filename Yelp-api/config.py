@@ -21,7 +21,7 @@ https://www.yelp.ca/developers/documentation/v3/category_list
 - Select the appropriate country from the dropdown on the top right
 - Use the lowercase value in brackets from that page (eg. "catering" NOT "Caterers")
 """
-SEARCH_CATERGORIES = {"category": {'alias':'', 'title': '', "parent_aliases": ['restaurants']}}
+SEARCH_CATERGORIES = 'restaurants'
 
 
 
@@ -32,6 +32,7 @@ SEARCH_LOCATIONS can be in different formats (eg. a postal code, full address, c
 """
 SEARCH_LOCATIONS = [
     "Palmdale, CA",
+    "Toronto, ON"
 
 
     

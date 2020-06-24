@@ -9,10 +9,10 @@ Yelp is a user-driven small business directory which allows users from anywhere 
 # Key question: 
 What is the relationship between the rating and the number of reviews of a restaurant on Yelp?
 *Factors considered: 
-	*- pricing levels
-	*- cuisine styles
-	*- cities
-	*- etc.
+*pricing levels
+*cuisine styles
+*cities
+*etc.
 
 ## Main objectives or questions to answer: (to-be-finalized ...)
  This project will try to answer the following main questions:

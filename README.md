@@ -8,7 +8,7 @@ Yelp is a user-driven small business directory which allows users from anywhere 
 
 ## Main objectives or questions to answer:
  This project will try to answer the following main questions: 
-*  Is there a relationship or correlation between rating and having a high number of reviews ?
+*  Is there a relationship or correlation between rating and number of reviews ?
 *  Does pricing related to the restaurant rating? (eg. the higher the price range, the more likely it will have a higher rating)
 *  What are the top-rated and lowest-rated restaurants?
 *  Which city contains the most highest-rated restaurants?

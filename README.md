@@ -16,8 +16,7 @@ Yelp is a user-driven small business directory which allows users from anywhere 
 ## Tasks:
 * Identify the main questions to answer.
 * Data sources: Get and store the data by using Yelp API, Google Geolocation API
-  * scope of analysis: 
-   	- Locations: The top four largest cities in North America (New-York, Los Angeles, Chicago, and Toronto), and their surrounding areas.
+  * scope of analysis: The large cities in North America and their surrounding suburban areas.
 * Data cleaning: Clean the irrelevant data present in all the files and store them in a new and cleaned dataframe.
 * Statistical analysis: Identify the relevant details that can be analyzed with the help of data that is already given in the dataset.
   * Identify the overall quality of the business by considering the average star rating.

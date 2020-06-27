@@ -1,17 +1,18 @@
 # Yelp-Challenge 
 
-# PyRestaurants
+# PyRestaurants -  What factors influence restaurants’ star rating on Yelp?
 ![Yelp](Images/yelp.gif)
-## Background
 
-Yelp is a user-driven small business directory which allows users from anywhere in the world to rate, review, and it is also an online reservation service. Due to the vast number of restaurants spread worldwide, it is very difficult to get to know the quality of a restaurant and the services they provide. Yelp provides us with reviews and ratings provided by the users and other services offered by the restaurants. In-order-to invest in a business or start a new one, one should have an idea of the reasons behind the success of the restaurant. The original yelp data set has the general details of restaurants but there is no analytics to infer customer satisfaction and the reasons behind the success of a restaurant. If the factors contributing to the success of a restaurant are known, it would be easy for future investors to make wise financial decisions easily. On this project we focus on investigating the relationship between rating, and review counts of customers to expain the restaurants yelp status.
+## Background
+Yelp is a user-driven small business directory which allows users from anywhere in the world to rate, review, and it is also an online reservation service. Due to the vast number of restaurants spread worldwide, it is very difficult to get to know the quality of a restaurant and the services they provide. Yelp provides us with reviews and ratings provided by the users and other services offered by the restaurants. In-order-to invest in a business or start a new one, one should have an idea of the reasons behind the success of the restaurant. The original yelp data set has the general details of restaurants but there is no analytics to infer customer satisfaction and the reasons behind the success of a restaurant. If the factors contributing to the success of a restaurant are known, it would be easy for future investors to make wise financial decisions easily. It would also be easy for foodies like us to know which new restaurants to give a try. On this project we focus on investigating the relationship between review counts, price, location of restaurants and ratings given by customers to help explain the restaurants yelp status.
 
 ## Main objectives or questions to answer:
  This project will try to answer the following main questions: 
 *  Is there a relationship or correlation between rating and number of reviews?
 *  Is pricing related to the restaurant rating? (eg. the higher the price range, the more likely it will have a higher rating)
-*  What are the top-rated and lowest-rated restaurants?
-*  Which city contains the highest-rated restaurants?
+*  Does the location of a restaurant affect its rating?
+*  What are the average, above-average and below-average restaurants?
+*  Which state contains the highest-rated restaurants?
 
 ## Tasks:
 * Identify the main questions to answer.

@@ -17,10 +17,10 @@ Yelp is a user-driven small business directory which allows users from anywhere 
 * [Data sources]()
 * [Data cleaning]()
 * [Data analysis]()
-   - Restaurants data summary
-   - City Summery
-   - Correlation and Regression
-   - Google Heat Map and Visualization
+   -  [Restaurants data summary]()
+   - [City Summery]()
+   - [Correlation and Regression]()
+   - [Google Heat Map and Visualization]()
 * [Observable Trends and Insights]()
 
 ## Main objectives or questions to answer:

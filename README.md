@@ -26,7 +26,7 @@ The project is conducted in Jupyter notebook, a link is created on Jupyter Noteb
    - [City Summery]()
    - [Correlation and Regression]()
    - [Google Heat Map and Visualization]()
-* [Observabletrends and Insights]()
+* [Observable Trends and Insights]()
 
 ## Main objectives or questions to answer:
  This project will try to answer the following main questions: 

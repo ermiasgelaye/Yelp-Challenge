@@ -1,6 +1,6 @@
 # Yelp-Challenge 
 
-# PyRestaurants -  What yelp star rating and review count tell us about restaurants ?
+## PyRestaurants -  What yelp star rating and review count tell us about restaurants ?
 
 ![Yelp](Images/yelp.gif)
 

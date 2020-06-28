@@ -12,7 +12,7 @@ Yelp is a user-driven small business directory which allows users from anywhere 
 
 The project is conducted in Jupyter notebook, a link is created on Jupyter Notebook Viewer, and a google slide pesentaion to showcase, and communicate the analysis report. Look the following links to see the project results: 
 
-[Jupyter Notebook Viewer]()
+[Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/ermiasgelaye/Yelp-Challenge/blob/master/pyRestaurants/yelp-challenge.ipynb)
 
 [Slide Deck](https://docs.google.com/presentation/d/1XFRA4IE8y9rJfVmMvPRHLoolCLFUmCNSaVhR1o-KZ1I/edit#slide=id.g8ac91befe2_0_39)
 

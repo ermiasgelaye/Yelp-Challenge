@@ -43,6 +43,8 @@ This project used Yelp, and Google Map Api to generate, and work on restaurant d
   - Google map visualization 
 
 ## Data Cleaning
+The data cleaning process includes renaming the column heading, remove the duplicate rows, and drop irrelevant data columns. The data points before cleaning were 19995, and after cleaning, 15731 data points get ready for analysis. 
+
 
 ## Data Analysis
 

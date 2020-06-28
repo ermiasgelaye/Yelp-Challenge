@@ -18,15 +18,15 @@ The project is conducted in Jupyter notebook, a link is created on Jupyter Noteb
 
 
 ## Table of Contents
-* [Main objectives or questions]()
-* [Data sources]()
-* [Data cleaning]()
-* [Data analysis]()
-   - [Restaurants data summary]()
+* [Main Objectives or Questions]()
+* [Data Sources]()
+* [Data Cleaning]()
+* [Data Analysis]()
+   - [Restaurants Data Summary]()
    - [City Summery]()
    - [Correlation and Regression]()
    - [Google Heat Map and Visualization]()
-* [Observable Trends and Insights]()
+* [Observabletrends and Insights]()
 
 ## Main objectives or questions to answer:
  This project will try to answer the following main questions: 

@@ -48,7 +48,7 @@ This project used YELP restaurant dataset among the top four largest cities in N
 
 ## Observable Trends and Insights
 
-## Team members:
+## Team members(Team Eagle):
  - Adedamola Atekoja (‘Damola)
  - Amanda Qianyue Ma
  - Amos Johnson  

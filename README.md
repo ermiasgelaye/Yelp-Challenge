@@ -47,6 +47,7 @@ The data cleaning process includes renaming the column heading, remove the dupli
 
 
 ## Data Analysis
+The data analysis has two part the first part is making summery analysis on the metrics of the dataset. 
 
 ## Observable Trends and Insights
 

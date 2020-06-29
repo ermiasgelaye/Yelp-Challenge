@@ -14,7 +14,7 @@ The project is conducted in Jupyter notebook, a link is created on Jupyter Noteb
 
 [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/ermiasgelaye/Yelp-Challenge/blob/master/pyRestaurants/yelp-challenge.ipynb)
 
-[Slide Deck](https://docs.google.com/presentation/d/1XFRA4IE8y9rJfVmMvPRHLoolCLFUmCNSaVhR1o-KZ1I/edit#slide=id.g8ac91befe2_0_39)
+[Slide Deck](https://docs.google.com/presentation/d/18kY4XLbcT_GdVwHyEcaL3RdbgxqKEP4Yf2N2Kd7t5x4/edit#slide=id.g8a46eab42c_3_30)
 
 
 ## Table of Contents
@@ -47,7 +47,11 @@ The data cleaning process includes renaming the column heading, remove the dupli
 
 
 ## Data Analysis
-The data analysis has two part the first part is making summery analysis on the metrics of the dataset. 
+The data analysis has two part the first part is making summery analysis on the metrics of the dataset, and the second part is the main analysis which includes Correlation and Regression.
+
+### Restaurants Data Summary
+
+
 
 ## Observable Trends and Insights
 

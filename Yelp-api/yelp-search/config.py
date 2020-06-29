@@ -7,7 +7,7 @@ To get a YELP_API_KEY:
 - Type in the required fields (you can enter anything it doesn't really matter), then click **Create New App**.
 - Copy the value in the field **API Key**.
 """
-YELP_API_KEY = 'AzNBoaNa2O0dRII6EUIqdIcog4me9HlcMceEWDZPJ5tzYii0tOv48WWoWj3Fpg9jEUk4UPqCzfZYRpPI1mZj7qM2bXqplzrg9PTqM98h5_hghVk2oMDq-K5_gCcYXXYx'
+YELP_API_KEY = 'Put Your API key here'
 """python search.py
 SEARCH_TERM is pretty much the same thing you would type into the Yelp search box.
 It can be used in addition OR instead of SEARCH_CATEGORIES.

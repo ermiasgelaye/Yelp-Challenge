@@ -84,7 +84,8 @@ The data analysis has two part the first part is making summery analysis on the 
 </table>
 
 ### Restaurants Star Rating
-The most common restaurant review rating given at most places is 4 stars out of 5. The Average rating is 3.61. 
+The most common restaurant review rating given at most places is 4 stars out of 5. The Average rating is 3.61.
+![Star ratings](pyRestaurants/output/starrating.png)
 
 
 

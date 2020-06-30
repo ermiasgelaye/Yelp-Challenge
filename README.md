@@ -18,7 +18,7 @@ The project is conducted in Jupyter notebook, a link is created on Jupyter Noteb
 
 
 ## Table of Contents
-* [Main Objectives or Questions]()
+* [Main Objectives or Questions](## Main Objectives or Questions to Answer)
 * [Data Sources]()
 * [Data Cleaning]()
 * [Data Analysis]()
@@ -28,7 +28,7 @@ The project is conducted in Jupyter notebook, a link is created on Jupyter Noteb
    - [Google Heat Map and Visualization]()
 * [Observable Trends and Insights]()
 
-## Main Objectives or Questions to Answer:
+## Main Objectives or Questions to Answer
  This project tried to answer the following main questions: 
 *  Is there a relationship or correlation between rating and number of reviews?
 *  Is pricing related to the restaurant rating? (eg. the higher the price range, the more likely it will have a higher rating)

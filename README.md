@@ -18,8 +18,8 @@ The project is conducted in Jupyter notebook, a link is created on Jupyter Noteb
 
 
 ## Table of Contents
-* [Main Objectives or Questions](# Main Objectives or Questions to Answer)
-* [Data Sources](## Data Sources)
+* [Main Objectives or Questions](#Main Objectives or Questions to Answer)
+* [Data Sources](#Data Sources)
 * [Data Cleaning]()
 * [Data Analysis]()
    - [Restaurants Data Summary]()

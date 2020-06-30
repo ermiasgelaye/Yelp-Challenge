@@ -77,8 +77,8 @@ The data analysis has two part the first part is making summery analysis on the 
       <td>6.93%</td>
       <td>25.97%</td>
       <td>52.37%</td>
-      <td>4.837582%</td>
-      <td>2.421969%</td>
+      <td>4.84%</td>
+      <td>2.42%</td>
     </tr>
   </tbody>
 </table>

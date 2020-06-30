@@ -94,10 +94,10 @@ The top review count result, Katz’s Delicatessen has a 4.5 star rating with 21
 
 ### Restaurants Pricing Summary
 Price Range ($)
-$ = Under $10
-$$ = Between $11-$30
-$$$ = Between $31-$60
-$$$$ = Above $60
+- $ = Under $10
+- $$ = Between $11-$30
+- $$$ = Between $31-$60
+- $$$$ = Above $60
 
 ![Pricing Summary](pyRestaurants/output/resturant_price.png)
 

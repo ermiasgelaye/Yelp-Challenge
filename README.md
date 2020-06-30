@@ -73,7 +73,7 @@ The data analysis has two part the first part is making summery analysis on the 
       <td>189</td>
       <td>3.61</td>
       <td>260.26</td>
-      <td>51.884813%</td>
+      <td>51.88%</td>
       <td>6.93%</td>
       <td>25.97%</td>
       <td>52.37%</td>
@@ -82,7 +82,6 @@ The data analysis has two part the first part is making summery analysis on the 
     </tr>
   </tbody>
 </table>
-
 
 ## Observable Trends and Insights
 

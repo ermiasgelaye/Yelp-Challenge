@@ -147,11 +147,14 @@ The correlation between price versus Review Count is a very weak positive correl
 
 ## <a name="Observable_Trends_and_Insights"></a>Observable Trends and Insights
 - The average star rating of restaurants is 3.61, which is a good indication of restaurants in the selected locations has a good service.
-- Other things remains constant from this research findings it is understood that there is a very weak positive correlation between star ratings , and review  couts. It is also difficult to model, and predict on this relationships at the moment. 
+- Other things remains constant from this research findings it is understood that there is a very weak positive correlation between star ratings , and review  couts. It is also difficult to model, and predict the data on this relationships at the moment. 
 - The other interesting finding of this project is the relationship between price and star rating. However, there is a very weak correlation, and regression value to predict rating on restaurants price range, but the direction of the relationship start changing when the price go up.  When price is under $30 the relationship was negative, while price is going up from $30 the relationship become positive. 
 - The top restaurant in terms of review count is Katz’s Delicatesse with 21,803 reviews, located in Manhattan, New York City, and the lowest one is Tacos El Bombon with 1 review count, and it is located in Los Angeles, California. 
  - The top restaurant in terms of both  review count, and star rating is Tropicali with 1126.0 review count and 5 star rating.
 New York get the highest average reviews count(905) and East York, ON get the highest average rating (4.5) and review count(259)
+- One of the limitation of this study is the review cout data has outliers. Our outlier testing also showed that there is upper hand outliners. The median is 91 the upper outlier is 12280. We are tempted to remove the outliers ,outliers increase the variability of the data, which decreases statistical power. 
+In the next research  if we take appropriate sample and remove the outliers we can get a better result to conclude.   
+
 
 
 ## Team members (Team Eagle):

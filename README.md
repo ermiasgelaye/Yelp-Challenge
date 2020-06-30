@@ -48,7 +48,7 @@ The data cleaning process includes renaming the column heading, remove the dupli
 
 ## Data Analysis
 The data analysis has two part the first part is making summery analysis on the metrics of the dataset, and the second part is the main analysis which includes Correlation and Regression.
-
+## Summary Statistics
 ### Restaurants Data Summary
 <table border="1" class="dataframe">
   <thead>
@@ -87,12 +87,72 @@ The data analysis has two part the first part is making summery analysis on the 
 The most common restaurant review rating given at most places is 4 stars out of 5. The Average rating is 3.61.
 ![Star ratings](pyRestaurants/output/starrating.png)
 
+### Top 20 Restaurants by Review count
+The top review count result, Katz’s Delicatessen has a 4.5 star rating with 21,803 reviews. Meanwhile the lowest of the top 20, Hae Jang Chon Korean BBQ Restaurant also has a 4.5 star rating with 2,427 reviews.
+
+![Top Review count](pyRestaurants/output/top_rest_review.png)
+
+### Restaurants Pricing Summary
+Price Range ($)
+$ = Under $10
+$$ = Between $11-$30
+$$$ = Between $31-$60
+$$$$ = Above $60
+
+![Pricing Summary](pyRestaurants/output/resturant_price.png)
+
+### City Summary
+The top restaurants from our data appear mostly in Los Angeles, Chicago, Toronto and New York.The three states are California, Illinois and New York. The only province is Ontario.
+![City Summary](pyRestaurants/output/output/top_ten_cities.png)
+
+![State Summary](pyRestaurants/output/output/states.png)
+
+The top cities with highest average rating and review count. 
+
+![Top ten cities with rating and review count](pyRestaurants/output/top_review_city.png)
 
 
 
+## Correlation and Regression
 
+### Star Rating Versus Review Count
+The result on the restaurant's star rating versus review count showed a very weak positive correlation (0.11), and very low R-squared value(0.012).Therefore it’s indicated that while both variables go up in response to one another, the relationship is not very strong, and the regression model does not  fit significantly to predict the data.
+![star rating and review count](pyRestaurants/output/regression_star_review.png)
+
+### Scatter Plot - Star Rating Versus Price
+A scatter plot that displays  the relationship between star rating versus price, the color differentiation  shows the difference in price range. 
+![scatter plot](pyRestaurants/output/scatter_rating_price.png)
+
+### Correlation Matrix of Star Rating, Review Count, Price
+
+![CorrMatrix](pyRestaurants/output/corrmatrix.png)
+
+### Star Rating Versus Price
+The correlation between price versus star rating is weak and has a very low R-squared value for all ranges. However, what we understand from the data is that the direction of the relationship starting point changes when the price goes up.When the price is under $30 the relationship is negative, while pricing over $30 is a positive. 
+![Star Rating Versus Price](pyRestaurants/output/regression_price_rating.png)
+
+### Review Count Versus Price
+The correlation between price versus Review Count is a very weak positive correlation and the data showed a low R-squared value for all price ranges. This may be due to the outlier data points in review counts. 
+![Review Count Versus Price](pyRestaurants/output/regression_price_review.png)
+
+## Google Map
+### Heat map of all restaurant locations used in research.
+![Heat Map](Images/all_resturants.png)
+
+### Restaurants With the Highest Review Count
+![Review Count](Images/review count.png)
+
+### Restaurants with the Highest Rating(s) and Review Count
+![Heat Map](Images/rated_reviwed.png)
 
 ## Observable Trends and Insights
+- The average star rating of restaurants is 3.61, which is a good indication of restaurants in the selected locations has a good service.
+- Other things remains constant from this research findings it is understood that there is a very weak positive correlation between star ratings , and review  couts. It is also difficult to model, and predict on this relationships at the moment. 
+- The other interesting finding of this project is the relationship between price and star rating. However, there is a very weak correlation, and regression value to predict rating on restaurants price range, but the direction of the relationship start changing when the price go up.  When price is under $30 the relationship was negative, while price is going up from $30 the relationship become positive. 
+- The top restaurant in terms of review count is Katz’s Delicatesse with 21,803 reviews, located in Manhattan, New York City, and the lowest one is Tacos El Bombon with 1 review count, and it is located in Los Angeles, California. 
+ - The top restaurant in terms of both  review count, and star rating is Tropicali with 1126.0 review count and 5 star rating.
+New York get the highest average reviews count(905) and East York, ON get the highest average rating (4.5) and review count(259)
+
 
 ## Team members (Team Eagle):
  - Adedamola Atekoja (‘Damola)

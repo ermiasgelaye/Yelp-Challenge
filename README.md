@@ -103,9 +103,9 @@ $$$$ = Above $60
 
 ### City Summary
 The top restaurants from our data appear mostly in Los Angeles, Chicago, Toronto and New York.The three states are California, Illinois and New York. The only province is Ontario.
-![City Summary](pyRestaurants/output/output/top_ten_cities.png)
+![City Summary](pyRestaurants/output/top_ten_cities.png)
 
-![State Summary](pyRestaurants/output/output/states.png)
+![State Summary](pyRestaurants/output/states.png)
 
 The top cities with highest average rating and review count. 
 

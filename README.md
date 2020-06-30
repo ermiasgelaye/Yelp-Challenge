@@ -140,7 +140,7 @@ The correlation between price versus Review Count is a very weak positive correl
 ![Heat Map](Images/all_resturants.png)
 
 ### Restaurants With the Highest Review Count
-![Review Count](Images/review count.png)
+![Review Count](Images/review_count.png)
 
 ### Restaurants with the Highest Rating(s) and Review Count
 ![Heat Map](Images/rated_reviwed.png)

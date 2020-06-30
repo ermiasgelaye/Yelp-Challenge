@@ -50,7 +50,6 @@ The data cleaning process includes renaming the column heading, remove the dupli
 The data analysis has two part the first part is making summery analysis on the metrics of the dataset, and the second part is the main analysis which includes Correlation and Regression.
 
 ### Restaurants Data Summary
-/style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">

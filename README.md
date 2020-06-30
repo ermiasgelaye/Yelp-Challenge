@@ -18,17 +18,17 @@ The project is conducted in Jupyter notebook, a link is created on Jupyter Noteb
 
 
 ## Table of Contents
-* [Main Objectives or Questions](#Main_Objectives_or_Questions_to Answer)
+* [Main Objectives or Questions](#Main_Objectives_or_Questions_to_Answer)
 * [Data Sources](#Data_Sources)
 * [Data Cleaning](#Data_Cleaning)
 * [Data Analysis](#Data_Analysis)
-   - [Restaurants Data Summary](#Restaurants_Data Summary)
-   - [City Summery](#City Summary)
+   - [Restaurants Data Summary](#Restaurants_Data_Summary)
+   - [City Summery](#City_Summary)
    - [Correlation and Regression](#Correlation_and_Regression)
    - [Google Heat Map and Visualization](#Google_Heat_Map_and_Visualization)
 * [Observable Trends and Insights](#Observable_Trends_and_Insights)
 
-## <a name="Main_Objectives_or_Questions"></a> Main Objectives or Questions to Answer
+## <a name="Main_Objectives_or_Questions_to_Answer"></a> Main Objectives or Questions to Answer
  This project tried to answer the following main questions: 
 *  Is there a relationship or correlation between rating and number of reviews?
 *  Is pricing related to the restaurant rating? (eg. the higher the price range, the more likely it will have a higher rating)

@@ -128,7 +128,7 @@ A scatter plot that displays  the relationship between star rating versus price,
 ![CorrMatrix](pyRestaurants/output/corrmatrix.png)
 
 ### Star Rating Versus Price
-The correlation between price versus star rating is weak and has a very low R-squared value for all ranges. However, what we understand from the data is that the direction of the relationship starting point changes when the price goes up.When the price is under $30 the relationship is negative, while pricing over $30 is a positive. 
+The correlation between price versus star rating is weak and has a very low R-squared value for all price ranges. However, what we understand from the data is that the direction of the relationship changes when the price goes up. When the price is under $30 the relationship was negative, while price become over $30 the relationship changed to positive. 
 ![Star Rating Versus Price](pyRestaurants/output/regression_price_rating.png)
 
 ### Review Count Versus Price

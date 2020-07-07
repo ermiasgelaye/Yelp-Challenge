@@ -12,7 +12,7 @@ Yelp is a user-driven small business directory which allows users from anywhere 
 
 The project is conducted in Jupyter notebook, a link is created on Jupyter Notebook Viewer, and a google slide pesentaion to showcase, and communicate the analysis report. Look the following links to see the project results: 
 
-[Jupyter Notebook Viewer](https://docs.google.com/presentation/d/e/2PACX-1vRpu8dnqpNiuyY7g5pVgwBHW-YRedfeQBfZ_jYmPrz-UWYT4iIY5TJieKgJKwOyoMK00bH-hFyZFuBx/embed?start=true&loop=false&delayms=3000&slide=id.g8a2fe16956_1_2)
+[Jupyter Notebook Viewer](https://docs.google.com/presentation/d/e/2PACX-1vRpu8dnqpNiuyY7g5pVgwBHW-YRedfeQBfZ_jYmPrz-UWYT4iIY5TJieKgJKwOyoMK00bH-hFyZFuBx/embed?start=false&loop=false&delayms=3000&slide=id.g8a2fe16956_1_2)
 
 [Slide Deck](https://docs.google.com/presentation/d/18kY4XLbcT_GdVwHyEcaL3RdbgxqKEP4Yf2N2Kd7t5x4/edit#slide=id.g8a46eab42c_3_30)
 

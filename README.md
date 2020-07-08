@@ -156,7 +156,6 @@ New York get the highest average reviews count(905) and East York, ON get the hi
 In the next research  if we take appropriate sample and remove the outliers we can get a better result to conclude.   
 
 
-
 ## Team members (Team Eagle):
  - Adedamola Atekoja (‘Damola)
  - Amanda Qianyue Ma

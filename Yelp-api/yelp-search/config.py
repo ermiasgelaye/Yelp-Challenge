@@ -31,7 +31,7 @@ SEARCH_LOCATIONS can be in different formats (eg. a postal code, full address, c
 - Don't worry about partially overlapping locations (eg. Toronto vs. Etobicoke), as duplicate entries are automatically removed.
 """
 SEARCH_LOCATIONS = [
-    "New York City, ON",
+    "New York City, NY",
 
 
 
